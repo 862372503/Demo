@@ -24,4 +24,4 @@ npm run test
 ```
 npm run lint
 ```
-###mac版idea测试
+###mac版idea测试+1
